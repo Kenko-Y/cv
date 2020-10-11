@@ -1,7 +1,7 @@
 # 職務経歴
 
 ## Summary
-| | |
+| keyword | value |
 |:--|:--|
 | name | Kenko Yo |
 | From | KOBE, HYOGO |
@@ -10,8 +10,8 @@
 ---
 
 ## Skills
-### Languege
- C | C++ | Pro*C | PHP |
+### Language
+ C | C++ | Pro*C | PHP
 ### Framework
  Laravel | FuelPHP | jQuery
 ### RDB
