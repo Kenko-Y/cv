@@ -3,23 +3,24 @@
 ## Summary
 | keyword | value |
 |:--|:--|
-| name | Kenko Yo |
-| From | KOBE, HYOGO |
+| Name | Kenko Yo |
+| From | KOBE, HYOGO ,JAPAN |
 | Language | Japanese -> Native<br>Chinese -> Conversational<br>English -> Conversational|
+| Role | Software Engineer |
 
 ---
 
 ## Skills
-### Language
- C | C++ | Pro*C | PHP
+### Programming Language
+ C | C++ | Pro*C | C# | PHP
 ### Framework
- Laravel | FuelPHP | jQuery
+ Laravel | FuelPHP | ASP.NET(.net Framework) | jQuery
 ### RDB
- Oracle | MySQL
+ Oracle | MySQL | SQLite3
 ### SaaS/PaaS
- GitLab | GitHub 
+ GitLab | GitHub | AWS | Heroku
 ### Others
- Redmine | SVN | Heroku |
+ Redmine | SVN | MATLAB / Simulink 
 
 ---
 <!-- ## History -->
